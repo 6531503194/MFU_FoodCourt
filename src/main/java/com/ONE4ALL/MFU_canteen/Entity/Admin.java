@@ -1,5 +1,5 @@
 package com.ONE4ALL.MFU_canteen.Entity;
 
-public class Canteen{
+public class Admin {
     
 }
